@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m @alexeyshesh
-- 👀&nbsp; I’m interested in back-end development and natural language processing
+- 👀&nbsp; Back-end Developer
 - 📚&nbsp; I’m currently studying in Lomonosov Moscow State University
 - 👨‍💻&nbsp; Yandex, HR-Tech department
 - 📫&nbsp; Moscow, Russia
