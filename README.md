@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m @alexeyshesh
 - 👀&nbsp; Back-end Developer
-- 📚&nbsp; I’m currently studying in Lomonosov Moscow State University
-- 👨‍💻&nbsp; Yandex, HR-Tech department
+- 📚&nbsp; Lomonosov Moscow State University, Bachelor's degree
+- 👨‍💻&nbsp; Yandex, HR Tech department
 - 📫&nbsp; Moscow, Russia
 
 ### Contact me!
